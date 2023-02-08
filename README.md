@@ -8,4 +8,4 @@
 
   - WebViewClient
 
-    ![스크린샷 2023-02-08 오후 5.07.23](/Users/jaehyunjang/Desktop/스크린샷 2023-02-08 오후 5.07.23.png)
+    ![alt text](https://github.com/NewTurn2017/Android-Advanced-Apps/blob/main/image/chapter1.png?raw=true)

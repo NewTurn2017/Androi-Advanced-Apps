@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">웹툰 앱</string>
+    <string name="backToLastView">마지막 시점 돌아가기</string>
+    <string name="changeTabName">탭 이름 바꾸기</string>
+</resources>

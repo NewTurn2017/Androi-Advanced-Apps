@@ -8,4 +8,4 @@
 
   - WebViewClient
 
-    ![스크린샷](https://github.com/NewTurn2017/Android-Advanced-Apps/blob/main/image/chapter1.png)
+    ![스크린샷](./image/chapter1.png)
